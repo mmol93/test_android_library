@@ -8,7 +8,6 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.test_library"
         minSdk 26
         targetSdk 33
         versionCode 1
